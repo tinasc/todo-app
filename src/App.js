@@ -14,7 +14,7 @@ const App = () => {
         <h1>My Todo list</h1>      
       </header>      
       <Form inputText={inputText} todos={todos} setTodos={setTodos} setInputText={setInputText} />
-      <TodoList />
+      <TodoList todos={todos}/>
     </div>
   );
 }
