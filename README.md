@@ -1,3 +1,17 @@
+## To do List App
+• Developed one page React base To-do web app which allows users to add, delete and filter tasks in the To-do List.
+
+• Incorporated React functional components using react hooks.
+
+• Implemented local storage features.
+
+• Published the web app on GitHub pages.
+
+
+Environment: React, HTML, CSS, JavaScript ES6, Git, React Hooks.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
